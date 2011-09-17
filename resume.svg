@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="resume.pdf">
+   sodipodi:docname="resume.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,12 +25,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="334.9002"
-     inkscape:cy="560.74967"
+     inkscape:zoom="1.1175602"
+     inkscape:cx="146.81514"
+     inkscape:cy="815.08649"
      inkscape:document-units="in"
-     inkscape:current-layer="layer1"
-     showgrid="false"
+     inkscape:current-layer="layer2"
+     showgrid="true"
      inkscape:window-width="1440"
      inkscape:window-height="776"
      inkscape:window-x="0"
@@ -38,14 +38,17 @@
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:snap-grids="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     units="in">
     <inkscape:grid
        type="xygrid"
        id="grid3227"
        empspacing="5"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       units="in"
+       dotted="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -55,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,36 +66,36 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="guides"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,-62.362183)">
     <rect
        style="fill:#ececec"
        id="rect3245"
        width="224.25385"
-       height="544.47223"
+       height="630"
        x="34.345188"
-       y="207.87465" />
+       y="332.36218" />
     <rect
        style="fill:#ececec;display:inline"
        id="rect3167"
-       width="461.63974"
-       height="388.90872"
+       width="450.90207"
+       height="630"
        x="270.72089"
-       y="202.8239" />
+       y="332.36218" />
     <rect
        style="fill:#e6e6e6;display:inline"
        id="rect3205"
        width="699.02557"
        height="141.42136"
-       x="33.335033"
-       y="53.321316" />
+       x="90"
+       y="152.36218" />
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-62.362183)"
-     style="display:inline">
+     style="display:none">
     <flowRoot
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Sans"
@@ -106,30 +109,30 @@
            width="744.09448"
            height="1052.3622" /></flowRegion><flowPara
          id="flowPara3183"
-         style="font-size:12.93593884000000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:#000000">PROFILE</flowPara><flowPara
+         style="font-size:12.93593884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Eurostile;-inkscape-font-specification:Eurostile">PROFILE</flowPara><flowPara
          id="flowPara3185"
-         style="font-size:12.93593884000000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:#000000">I am lorem ipsum  </flowPara><flowPara
+         style="font-size:12.93593884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Eurostile;-inkscape-font-specification:Eurostile">I am lorem ipsum  </flowPara><flowPara
          id="flowPara3187"
-         style="font-size:12.93593884000000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:#000000" /><flowPara
+         style="font-size:12.93593884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Eurostile;-inkscape-font-specification:Eurostile" /><flowPara
          id="flowPara3189"
-         style="font-size:12.93593884000000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:#000000">EXPERIENCE </flowPara><flowPara
+         style="font-size:12.93593884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Eurostile;-inkscape-font-specification:Eurostile">EXPERIENCE </flowPara><flowPara
          id="flowPara3191"
-         style="font-size:12.93593884000000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:#000000">Software Developer, CMGd Atlanta, GA </flowPara><flowPara
+         style="font-size:12.93593884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Eurostile;-inkscape-font-specification:Eurostile">Software Developer, CMGd Atlanta, GA </flowPara><flowPara
          id="flowPara3193"
-         style="font-size:12.93593884000000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:#000000" /><flowPara
+         style="font-size:12.93593884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Eurostile;-inkscape-font-specification:Eurostile" /><flowPara
          id="flowPara3195"
-         style="font-size:12.93593884000000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:#000000">I work in a team of more than twenty-five developers to build the worlds largest Django CMS.  </flowPara><flowPara
+         style="font-size:12.93593884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Eurostile;-inkscape-font-specification:Eurostile">I work in a team of more than twenty-five developers to build the worlds largest Django CMS.  </flowPara><flowPara
          id="flowPara3197"
-         style="font-size:12.93593884000000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:#000000" /><flowPara
+         style="font-size:12.93593884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Eurostile;-inkscape-font-specification:Eurostile" /><flowPara
          id="flowPara3199"
-         style="font-size:12.93593884000000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:#000000">Software Engineer, IDEAL Technology, Orlando, FL</flowPara><flowPara
+         style="font-size:12.93593884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Eurostile;-inkscape-font-specification:Eurostile">Software Engineer, IDEAL Technology, Orlando, FL</flowPara><flowPara
          id="flowPara3201"
-         style="font-size:12.93593884000000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:#000000" /><flowPara
+         style="font-size:12.93593884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Eurostile;-inkscape-font-specification:Eurostile" /><flowPara
          id="flowPara3203"
          style="fill:#000000"><flowSpan
-   style="font-size:12.93593884000000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:#000000"
+   style="font-size:12.93593884px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Eurostile;-inkscape-font-specification:Eurostile"
    id="flowSpan3264">I have been involved with all stages of development of I.D.E.A.L's current product STRIKE™ (System for TRIaging Key Evidence™)  an extremely fast, accurate and easy-to-use digital media exploitation tool. I was part of the four man team that designed this system which was delivered in six months. Since 2006 we have fielded over 200 units. My influence has brought functional specifications to be an accepted part of our development cycle. I have leveraged open source libraries to create custom filesystem drivers in userspace. My pyGTK code allows users to customize the way STRIKE extracts and analyzes data as well as view that data intuitvly. Our nightly build system is a combination of distutils and automake/autoconf. Since we deploy using debian; We then wrap those up in dpkg. Our backend analysis system uses XML as a comunication layer and SQL as a data store for a hetrogenious mix of tools. I routienly pull data from SQL using python to build models for the various UIs in STRIKE. It was my idea to use the simple window manager Fluxbox to enable our system to operate like a</flowSpan><flowSpan
-   style="font-size:12.93593884000000038px;fill:#000000"
+   style="font-size:12.93593884px;fill:#000000"
    id="flowSpan3266"> kiosk. I designed and wrote a process that we use to provide in-field updates to our customers. In addition to my developer duties, I also mentor junior developers by giving talks, reviewing their code, providing constructive feedback, breaking larger tasks down to help them</flowSpan> meet our schedule.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
